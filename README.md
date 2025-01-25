@@ -1,44 +1,41 @@
-<h2 align="left">Hi 👋! My name is Amir and I'm a Data Analyst</h2>
+<h1 align="center">Hi there, I'm Amir 👋</h1>
 
-###
+<p align="center">
+  <b>Data Analyst | Data Modeler | AI Enthusiast</b>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirpatel32003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirpatel32003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirpatel32003&show_icons=true&count_private=true&theme=dracula" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirpatel32003&layout=compact&theme=dracula" height="170" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Funny gif" />
 
-###
+### About Me
+- 🌐 I’m currently working on data analytics, data modeling, and integrating AI into enterprise solutions.
+- 💻 I love using **Python**, **JavaScript**, **TypeScript**, **C#**, **React**, and more.
+- 🤝 Always interested in collaborations on data-driven projects and open-source initiatives.
+- 📫 How to reach me: 
+  [![Gmail](https://img.shields.io/badge/Gmail-patelamir32003%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelamir32003@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect--amir-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connect-amir/)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+---
+
+### Tech & Tools
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge](mailto:patelamir32003@gmail.com)" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=[LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://www.linkedin.com/in/connect-amir/)" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-###
+<p align="center">
+  <i>“Data is the new soil, not the new oil – it’s about growing things.”</i>
+</p>
