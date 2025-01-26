@@ -32,7 +32,7 @@
 - 🚀 **Projects:** From daily P&L reporting automation to predictive loan approval models (Bayesian Neural Nets, Gradient Boosting), I love tackling **high-impact** use cases.
 - 🛠 **Tech Toolbox:** Primarily Python, R, SQL, plus frameworks like **Flask**, **Shiny**, **FastAPI**, and more. I’m all about streamlined data pipelines, advanced analytics, and interactive dashboards.
 - 🤖 **AI & Chatbots:** Integrating LLMs (OpenAI), Twilio, and other APIs to create robust automation and conversational experiences.
-- 🌎 **Outside of Work:** I enjoy exploring new data viz libraries, training my cooking “AI” (i.e., learning new recipes!), and reading about emerging ML techniques.
+- 🌎 **Outside of Work:** I enjoy exploring new data viz libraries, training my trading algo “AI”, and reading about emerging ML techniques.
 
 ---
 
