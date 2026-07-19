@@ -7,7 +7,7 @@
 <h1 align="center">Hey there, I'm Amir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <strong>Data Scientist & AI Engineer</strong><br>
+  <strong>Data Engineer</strong><br>
   <i>Turning numbers and code into automation, insights, and next-gen AI solutions</i>
 </p>
 
