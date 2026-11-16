@@ -24,6 +24,9 @@
   <a href="https://amirpatel32003.github.io/ttc-delay-pipeline/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-TTC%20Delay%20Dashboard-7fd8c3?style=flat&logoColor=white" alt="Live Dashboard Badge"/>
   </a>
+  <a href="https://amirpatel32003.github.io/canada-cost-of-living/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Tool-Can%20I%20Afford%20It%3F-7fd8c3?style=flat&logoColor=white" alt="Cost of Living Tool Badge"/>
+  </a>
   <a href="https://amirpatel32003.github.io/credit-model-lab/" target="_blank">
     <img src="https://img.shields.io/badge/Results-Mortgage%20Default%20Model-7fd8c3?style=flat&logoColor=white" alt="Mortgage Default Model Results Badge"/>
   </a>
@@ -99,6 +102,10 @@
 ### [🚇 TTC Subway Delay Pipeline & Live Dashboard](https://github.com/amirpatel32003/ttc-delay-pipeline) · [Live demo](https://amirpatel32003.github.io/ttc-delay-pipeline/)
 - **Tech**: Python, DuckDB, SQL, pytest, GitHub Actions, d3
 - **Summary**: Tested Bronze/Silver/Gold pipeline on Toronto Open Data (**270,282 rows, 10 files**) with a data contract, **9 data quality checks, 43 tests**, and a dashboard rebuilt daily.
+
+### [🍁 Can I Afford to Live There?](https://github.com/amirpatel32003/canada-cost-of-living) · [Live tool](https://amirpatel32003.github.io/canada-cost-of-living/)
+- **Tech**: Python, dbt, DuckDB, Airflow, SQL, GitHub Actions, pytest
+- **Summary**: Interactive rent, grocery and wage tool for **40 Canadian cities**. Incremental Statistics Canada ingest (**13.6M rows**), dbt models with **47 data tests** including contract tests against the source metadata, and an Airflow DAG run end to end in CI. Finding: one-bedroom rent outgrew the typical full-time wage in **34 of 40** cities since 2019.
 
 ### [🏠 Mortgage Default Risk Model & Model Lab](https://github.com/amirpatel32003/credit-risk-pipeline) · [Results](https://amirpatel32003.github.io/credit-risk-pipeline/) · [Model lab](https://github.com/amirpatel32003/credit-model-lab)
 - **Tech**: Python, DuckDB, SQL window functions, PyArrow, LightGBM, XGBoost, scikit-learn, SHAP, pytest
