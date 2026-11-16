@@ -24,6 +24,9 @@
   <a href="https://amirpatel32003.github.io/ttc-delay-pipeline/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-TTC%20Delay%20Dashboard-7fd8c3?style=flat&logoColor=white" alt="Live Dashboard Badge"/>
   </a>
+  <a href="https://amirpatel32003.github.io/credit-model-lab/" target="_blank">
+    <img src="https://img.shields.io/badge/Results-Mortgage%20Default%20Model-7fd8c3?style=flat&logoColor=white" alt="Mortgage Default Model Results Badge"/>
+  </a>
   <a href="https://github.com/amirpatel32003?tab=followers">
     <img src="https://img.shields.io/github/followers/amirpatel32003?label=GitHub%20Followers&style=flat" alt="GitHub Followers" />
   </a>
@@ -85,7 +88,7 @@
 **Languages:** Python · R · SQL (T-SQL, PL/SQL) · JavaScript · C# · PHP · HTML/CSS  
 **Analytics & BI:** Power BI (DAX, Power Query) · Tableau · R Shiny · Quarto · SSRS · Excel · A/B testing  
 **Data engineering:** ETL and data quality · SSIS · SSAS · Azure Data Factory · Databricks (PySpark, Delta Lake) · DuckDB · Airflow · dbt · Snowflake · Kafka · Docker  
-**AI & ML:** LLM integration (GPT-4o, Whisper, RAG, LangChain) · scikit-learn · XGBoost · TensorFlow · PyTorch · model evaluation  
+**AI & ML:** LLM integration (GPT-4o, Whisper, RAG, LangChain) · scikit-learn · XGBoost · LightGBM · SHAP · TensorFlow · PyTorch · model evaluation  
 **Practice:** Git · GitHub Actions CI · pytest · Agile/Scrum · requirements and BRDs  
 **Certifications:** Databricks AWS Platform Architect, Fundamentals, AI Fundamentals, Generative AI Fundamentals, AI Agent Fundamentals
 
@@ -96,6 +99,10 @@
 ### [🚇 TTC Subway Delay Pipeline & Live Dashboard](https://github.com/amirpatel32003/ttc-delay-pipeline) · [Live demo](https://amirpatel32003.github.io/ttc-delay-pipeline/)
 - **Tech**: Python, DuckDB, SQL, pytest, GitHub Actions, d3
 - **Summary**: Tested Bronze/Silver/Gold pipeline on Toronto Open Data (**270,282 rows, 10 files**) with a data contract, **9 data quality checks, 43 tests**, and a dashboard rebuilt daily.
+
+### [🏠 Mortgage Default Risk Model & Model Lab](https://github.com/amirpatel32003/credit-risk-pipeline) · [Results](https://amirpatel32003.github.io/credit-risk-pipeline/) · [Model lab](https://github.com/amirpatel32003/credit-model-lab)
+- **Tech**: Python, DuckDB, SQL window functions, PyArrow, LightGBM, XGBoost, scikit-learn, SHAP, pytest
+- **Summary**: Pipeline from **26.6M** Fannie Mae monthly loan records to **737 variables** and a 12-month default label, with **seven models** compared on a time-based split. A second repo logs **35 trials** on what actually improves the model: more training data lifted test AUC from 0.923 to **0.930**, while tuning and variable selection stayed within noise.
 
 ### [🤖 AI Call Evaluation Platform](https://amirpatel32003.github.io/projects/ai-call-evaluation/)
 - **Tech**: Python, Flask, Twilio, Whisper, GPT-4o, SQL Server
